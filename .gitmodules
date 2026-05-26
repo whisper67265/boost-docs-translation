@@ -6,3 +6,7 @@
 	path = libs/json
 	url = https://github.com/whisper67265/json.git
 	branch = local-zh_Hans
+[submodule "libs/beast"]
+	path = libs/beast
+	url = https://github.com/whisper67265/beast.git
+	branch = local-zh_Hans
